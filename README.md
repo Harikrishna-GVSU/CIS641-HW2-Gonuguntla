@@ -1,4 +1,4 @@
-# Haririshna Gonuguntla
+# Harikishna Gonuguntla
 
 * I love playing cricket and I am a big Rohit Sharma fan.
 * I like developing web applications and windows desktop applications.
