@@ -89,6 +89,12 @@ padding: 50px 0 20px;
   text-align: left;
 }
 
+.interests-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+
 .windows-img{
   width:25%;
   float: left;
